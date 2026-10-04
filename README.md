@@ -72,3 +72,9 @@ Trayme updates itself from the [releases of this repository](https://github.com/
 Freeware – free to use, but **not for sale**. See [LICENSE](LICENSE).
 
 © 2026 [Ali Naderi](https://github.com/naderi)
+
+## Support
+
+If Trayme keeps your taskbar tidy, you can support its development on Ko‑fi. ☕
+
+<a href='https://ko-fi.com/N7N123QIX0' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
