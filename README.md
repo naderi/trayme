@@ -1,5 +1,7 @@
 # Trayme
 
+**English** | [Deutsch](README.de.md)
+
 A small portable Windows app that moves windows to the notification area (tray) when you minimize them.
 With rules (regex on the window title and/or the process name), windows can also go to the tray when you **close** them.
 
