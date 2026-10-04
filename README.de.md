@@ -5,7 +5,7 @@
 Eine kleine portable Windows-App, die Fenster beim Minimieren in den Infobereich (Tray) verschiebt.
 Mit Regeln (RegEx auf Fenstertitel und/oder Prozessname) können Fenster auch beim **Schließen** in den Infobereich wandern.
 
-![Einstellungsfenster](docs/screenshot.png)
+![Einstellungsfenster](docs/screenshot.de.png)
 
 - Eine einzige `Trayme.exe` (~180 KB), keine Installation; nutzt das .NET Framework 4.8, das bei Windows 10/11 dabei ist
 - Einstellungen in `Trayme.xml` neben der EXE
