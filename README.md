@@ -71,7 +71,7 @@ Trayme updates itself from the [releases of this repository](https://github.com/
 
 Freeware – free to use, but **not for sale**. See [LICENSE](LICENSE).
 
-© 2026 [Ali Naderi](https://github.com/naderi)
+© 2026 [Ali Naderi](https://github.com/naderi) · [digitalent.dev](https://digitalent.dev/en/)
 
 ## Support
 
